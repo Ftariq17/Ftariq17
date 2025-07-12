@@ -6,17 +6,17 @@ Hi, I'm Farooq, an aspiring trader focused on building intuitive, data-driven to
 
 ## 📈 Featured Projects
 
-### 🟢 [Options Pricer & Visualizer](https://github.com/yourusername/options_pricer-visualizer)
+### 🟢 [Options Pricer & Visualizer](https://github.com/Ftariq17/options_pricer-visualizer)
 A Streamlit app that prices and visualizes single-leg and multi-leg option strategies using Black-Scholes. Includes Greeks calculation, payoff diagrams, implied volatility estimation, and volatility smile simulation.
 
-### 🟡 [Fed Day Strategy Backtester](https://github.com/yourusername/fed-day-backtester)
-Backtests a simple SPY strategy around Federal Reserve (FOMC) meeting dates. Analyzes pre/post-Fed performance with interactive controls and visualizations in Streamlit.
+### 🔴 [Market Maker Simulator](https://github.com/Ftariq17/market_maker_sim)
+Simulates a basic market-making strategy with queue position tracking, latency-aware fills, and adverse selection dynamics. Designed for educational exploration of limit order book mechanics.
 
-### 🔵 [Sharpe Ratio Portfolio Optimizer](https://github.com/yourusername/sharpe-optimizer)
+### 🔵 [Sharpe Ratio Portfolio Optimizer](https://github.com/Ftariq17/sharpe-optimizer)
 Monte Carlo simulation and optimization app that constructs stock portfolios to maximize the Sharpe ratio. Supports constraints on turnover, transaction costs, and max asset weight. Built with Streamlit.
 
-### 🔴 [Market Maker Simulator](https://github.com/yourusername/market_maker_sim)
-Simulates a basic market-making strategy with queue position tracking, latency-aware fills, and adverse selection dynamics. Designed for educational exploration of limit order book mechanics.
+### 🟡 [Fed Day Strategy Backtester](https://github.com/Ftariq17/fed-day-backtester)
+Backtests a simple SPY strategy around Federal Reserve (FOMC) meeting dates. Analyzes pre/post-Fed performance with interactive controls and visualizations in Streamlit.
 
 ---
 
